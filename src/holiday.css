@@ -1,0 +1,27 @@
+
+  .react-calendar__tile.festival {
+    color: rgb(250, 206, 203);
+    background-color: #847A85; 
+    border-radius: 6px;
+  }
+  
+  .react-calendar__tile.festival:hover {
+    background-color: #a79ba8; 
+  }
+
+  .react-calendar__tile.restricted {
+    
+   color: rgb(250, 206, 203);
+   background: #585853;
+   border-radius: 6px;
+ }
+ 
+ .react-calendar__tile.restricted:hover {
+   background-color: #acaca0; 
+ }
+
+
+
+ 
+  
+ 
